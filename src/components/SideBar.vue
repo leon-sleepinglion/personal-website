@@ -20,17 +20,17 @@
       </li>
       <p class="has-text-grey-light">|</p>
       <li>
-        <a href="https://www.medium.com/@leonweecs" target="_blank" class="has-text-white">
+        <a href="https://www.medium.com/@leonweecs" target="_blank" class="has-text-white is-size-6">
           <span class="icon">
             <font-awesome-icon :icon="['fab', 'medium']" />
           </span>
         </a>
-        <a href="https://github.com/leon-sleepinglion" target="_blank" class="has-text-white">
+        <a href="https://github.com/leon-sleepinglion" target="_blank" class="has-text-white is-size-6">
           <span class="icon">
             <font-awesome-icon :icon="['fab', 'github']" />
           </span>
         </a>
-        <a href="https://www.linkedin.com/in/leonweecs/" target="_blank" class="has-text-white">
+        <a href="https://www.linkedin.com/in/leonweecs/" target="_blank" class="has-text-white is-size-6">
           <span class="icon">
             <font-awesome-icon :icon="['fab', 'linkedin']" />
           </span>

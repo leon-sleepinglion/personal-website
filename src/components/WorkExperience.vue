@@ -8,7 +8,7 @@
     <p class="is-size-5">
       <span
         class="has-background-primary"
-      >Tech and tools: PHP, Python, Bash, MySQL, Docker, SaltStack</span>
+      >Tech and tools: PHP, Python, Bash, MySQL, Docker, SaltStack, Ansible</span>
     </p>
     <hr />
 
