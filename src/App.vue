@@ -60,6 +60,8 @@ div {
 }
 
 .icon {
-  padding-right: 1em;
+  left: -2.2%;
+  position: relative;
+  margin-right: 5px;
 }
 </style>
