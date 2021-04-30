@@ -40,6 +40,10 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 .bg {
   background-color: #1d1d1d;
 }
